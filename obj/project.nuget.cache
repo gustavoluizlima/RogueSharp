@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/BwfffKaj0iNgm6LgS9UHtgiH+mtsQckLRoq7BKO551uZv0WKt5dFNsm46Ugt/CRuqxdW71HMRV+MhEuSqwfg==",
+  "success": true,
+  "projectFilePath": "/home/coragem/CSharp/RogueSharp/RogueSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/coragem/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
